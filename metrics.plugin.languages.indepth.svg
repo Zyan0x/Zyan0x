@@ -29,7 +29,7 @@
                     <rect mask="url(#languages-bar)" x="454.1601011451282" y="0" width="2.900274767862719" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="457.06037591299093" y="0" width="1.8477644500261736" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="458.9081403630171" y="0" width="1.0906194745935212" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="459.99875983761063" y="0" width="0.001240162389379537" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.99875983761063" y="0" width="0.001240162389379537" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -122,7 +122,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Shell
                             </div>
