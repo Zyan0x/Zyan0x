@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Code: connect to a local model when your quota runs out</div>
-                                <div class="date">1 Feb 2026</div>
+                                <div class="title">Show HN: Bunqueue – Job queue for Bun using SQLite instead of Redis</div>
+                                <div class="date">2 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I Transformed My Life in 2025</div>
-                                <div class="date">1 Feb 2026</div>
+                                <div class="title">Clang Hardening Cheat Sheet – Ten Years Later</div>
+                                <div class="date">2 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Normalcy bias: it's not cool to overreact</div>
-                                <div class="date">1 Feb 2026</div>
+                                <div class="title">Show HN: Open-source, offline Kanban board with "swim lanes"</div>
+                                <div class="date">2 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Moltbook are exposing their database to the public</div>
-                                <div class="date">1 Feb 2026</div>
+                                <div class="title">Coordinating 10-agent teams with OpenClaw and shared persistent memory</div>
+                                <div class="date">2 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenClaw and Moltbook let attackers walk through the front door</div>
-                                <div class="date">1 Feb 2026</div>
+                                <div class="title">Show HN: Toktrack – 40x faster AI token tracker, rewritten from Node.js to Rust</div>
+                                <div class="date">2 Feb 2026</div>
                             </div>
                         </div>
                     </section>
