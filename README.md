@@ -44,7 +44,7 @@
 
 ### 📫 Let’s Connect
 
-- 🌍 Website: [https://zyano.dev](https://zyano.dev)  
+- 🌍 Website: [https://zyano0x.github.io/portfolio/](https://zyano0x.github.io/portfolio/)  
 - 📧 Email: nthoai305@gmail.com  
 - 💼 GitHub: [@Zyano0x](https://github.com/Zyano0x)  
 
