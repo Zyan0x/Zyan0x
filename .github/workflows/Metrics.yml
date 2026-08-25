@@ -49,6 +49,10 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
+          commits_authoring: >-
+            N.T.Hoai, Zyano, Zyano0x, Zyan0x, 20568836+Zyano0x@users.noreply.github.com, nthdm00@gmail.com, nthoai305@gmail.com
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 30
           plugin_languages_ignored: >-
             html, css, scss, shaderlab, tex, jupyter notebook, makefile, cmake
           plugin_languages_details: bytes-size, percentage
